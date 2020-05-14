@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("main")
 	fmt.Println("i")
 	fmt.Println("i")
+	fmt.Println("iss")
 }
